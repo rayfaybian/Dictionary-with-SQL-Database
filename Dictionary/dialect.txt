@@ -1,0 +1,13 @@
+Apfel;Öpfl
+Arzt;Dokta
+Dienstag;Zieschtig
+Energydrink;Technokaffee
+Fernbedienung;Fernsehkäschtle
+Google;guuugl
+Hallo;Habedere
+Herbst;Hirbscht
+Karneval;Fasching
+Kartoffel;Erdöpfl
+Leiter;Loatar
+Maus;Mus
+Servus;Zeawas
